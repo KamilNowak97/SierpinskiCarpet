@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SierpinskiCarpet.cpp
+c:\users\kamil\onedrive\pulpit\na gita\sierpinskicarpet\sierpinskicarpet\sierpinskicarpet.cpp(81): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SierpinskiCarpet.vcxproj -> C:\Users\kamil\OneDrive\Pulpit\NA GITA\SierpinskiCarpet\Debug\SierpinskiCarpet.exe
